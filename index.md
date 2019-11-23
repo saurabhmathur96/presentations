@@ -10,6 +10,7 @@ neural networks and their application to Computer Vision. (<a href="./NeuralNetw
 - <a href="./LearningTheory/Size-Independent Sample Complexity of Neural Networks.pdf">Size-Independent Sample Complexity of Neural Networks</a>: Presentation on a paper where the authors propose a tighter bound on generarlization error or Neural Networks
 - <a href="./CVLab/Learning Depth from Single Monocular Images.pdf">Learning Depth from Single Monocular Images</a>: Presentation on a paper from 2005 on estimating pixel-wise depth from single-view 2D images using a Probabilistic Graphical Model.
 - <a href="./CVLab/slides.pdf">Bag of Tricks for Image Classification with Convolutional Neural Networks</a>: Presentation on a paper that studies practical considerations for training deep neural networks.
+- <a href="./CVLab/Dropout as a Structured Shrinkage Prior.pdf">Dropout as a Structured Shrinkage Prior</a>: Presentation on a paper that explains dropout from a bayesian perspective.
 
 ## Engineering
 - <a href="./Mini-Project/review-1.pdf">A Neural Network based Chatbot</a>: Project proposal
